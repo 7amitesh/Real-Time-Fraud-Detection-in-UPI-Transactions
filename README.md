@@ -78,23 +78,6 @@ npm install
 npm start
 
 
----
 
-## 🟢 Verdict: Will This Help You Get Shortlisted?
 
-> ✅ **YES — this is one of the best possible projects you can show to Juspay.**
-
-In fact, it:
-- **Shows you're job-ready** for high-load, secure backend systems.
-- **Solves a real-world problem** Juspay is actively working on.
-- Gives you **talking points** for every interview round (system design, fraud logic, scalability, ML, real-time).
-
----
-
-Would you like help with:
-- The **GitHub repo starter template**?
-- The **isolation forest ML model** for fraud?
-- Deployment help (e.g., using Render or EC2)?
-
-Just say the word!
 
